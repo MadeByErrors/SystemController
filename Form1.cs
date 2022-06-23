@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SystemController
 {
-    public partial class Form1 : Form
+    public partial class SystemController : Form
     {
-        public Form1()
+        public SystemController()
         {
             InitializeComponent();
         }
