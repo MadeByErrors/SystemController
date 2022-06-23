@@ -1,0 +1,11 @@
+C:\Users\Colin\source\repos\SystemController\SystemController\bin\Debug\SystemController.exe.config
+C:\Users\Colin\source\repos\SystemController\SystemController\bin\Debug\SystemController.exe
+C:\Users\Colin\source\repos\SystemController\SystemController\bin\Debug\SystemController.pdb
+C:\Users\Colin\source\repos\SystemController\SystemController\obj\Debug\SystemController.csproj.AssemblyReference.cache
+C:\Users\Colin\source\repos\SystemController\SystemController\obj\Debug\SystemController.csproj.SuggestedBindingRedirects.cache
+C:\Users\Colin\source\repos\SystemController\SystemController\obj\Debug\SystemController.SystemController.resources
+C:\Users\Colin\source\repos\SystemController\SystemController\obj\Debug\SystemController.Properties.Resources.resources
+C:\Users\Colin\source\repos\SystemController\SystemController\obj\Debug\SystemController.csproj.GenerateResource.cache
+C:\Users\Colin\source\repos\SystemController\SystemController\obj\Debug\SystemController.csproj.CoreCompileInputs.cache
+C:\Users\Colin\source\repos\SystemController\SystemController\obj\Debug\SystemController.exe
+C:\Users\Colin\source\repos\SystemController\SystemController\obj\Debug\SystemController.pdb
